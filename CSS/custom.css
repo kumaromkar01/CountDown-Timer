@@ -36,11 +36,21 @@
     text-align: center;
 }
 
-input{
-    border : transparent
+.col input{
+    border : transparent;
     border-radius: 5px;
     width: 8vw;
     height: 50%;
     text-align: center;
     font-size: 2rem;
+}
+.foot{
+    position: absolute;
+    bottom: 10px;
+    left: 40%;
+    text-align: centers;
+    bottom: 10px;
+}
+.foot input{
+    width: 11rem;
 }
